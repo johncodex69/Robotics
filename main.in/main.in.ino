@@ -5,8 +5,8 @@ int in2 =27;
 ggx
 //motor 2 variables
 int enb =14;
-int in1 =32;
-int in3 =33;
+int in3 =32;
+int in4 =33;
 
 void forward(){
   digitalwrite(in1, HIGH)
